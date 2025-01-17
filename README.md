@@ -1,6 +1,6 @@
-#**README - E-commerce Marketplace*"
+#**README - E-commerce Marketplace**
 
-#Overview
+#*Overview*
 
 This document outlines the technical foundation of **E-commerce**, a platform designed to provide a seamless shopping experience. It covers the frontend requirements, CMS setup, third-party APIs, system architecture, and key workflows.
 
